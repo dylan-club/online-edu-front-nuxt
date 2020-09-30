@@ -1,4 +1,4 @@
-# {{ name }}
+# 在线教育前台系统
 
 > {{ description }}
 
