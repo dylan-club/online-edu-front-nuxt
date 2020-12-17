@@ -1,7 +1,7 @@
 # 在线教育前台系统
 
 ## 首页
-![](https://nicklaus-edu.oss-cn-beijing.aliyuncs.com/interview/online-edu-1.png)
+![首页图片](https://nicklaus-edu.oss-cn-beijing.aliyuncs.com/interview/online-edu-1.png)
 
 ## 登录页
 ![](https://nicklaus-edu.oss-cn-beijing.aliyuncs.com/interview/online-edu-4.png)
