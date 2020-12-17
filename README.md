@@ -1,6 +1,19 @@
 # 在线教育前台系统
 
-> {{ description }}
+## 首页
+![](https://nicklaus-edu.oss-cn-beijing.aliyuncs.com/interview/online-edu-1.png)
+
+## 登录页
+![](https://nicklaus-edu.oss-cn-beijing.aliyuncs.com/interview/online-edu-4.png)
+
+## 课程列表页
+![](https://nicklaus-edu.oss-cn-beijing.aliyuncs.com/interview/online-edu-2.png)
+
+## 讲师列表页
+![](https://nicklaus-edu.oss-cn-beijing.aliyuncs.com/interview/online-edu-3.png)
+
+## 课程详情页
+![](https://nicklaus-edu.oss-cn-beijing.aliyuncs.com/interview/online-edu-5.png)
 
 ## Build Setup
 
@@ -18,6 +31,4 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
